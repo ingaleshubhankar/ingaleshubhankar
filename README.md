@@ -1,4 +1,3 @@
-## Hi there 👋
 # Shubhankar's Portfolio
 
 Welcome to my portfolio! Here, you can explore my journey in learning Python and other various projects that reflect my skills and development.
