@@ -8,6 +8,11 @@ Explore my step-by-step Python learning process:
 
 ## 📘 CPP
 Explore advance topics in CPP:
+- [CPP Topics](https://github.com/ingaleshubhankar/cpp-portfolio.git)
+
+## 📘 C
+Explore advance topics in C:
+- [CPP Topics](https://github.com/ingaleshubhankar/c-portfolio.git)
 
 
 ## About Me
