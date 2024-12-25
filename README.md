@@ -2,10 +2,12 @@
 Welcome to my portfolio! Here, you can explore my journey in learnings & various projects that reflect my skills and development.
 
 
-## 📘 Python Learning Journey
+## 📘 Python
 Explore my step-by-step Python learning process:
 - [Python Basics](https://github.com/ingaleshubhankar/python-learning-portfolio.git)
 
+## 📘 CPP
+Explore advance topics in CPP:
 
 
 ## About Me
