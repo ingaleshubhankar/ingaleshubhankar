@@ -5,5 +5,5 @@ Welcome to my portfolio! Here, you can explore my journey in learning Python and
 
 ## 📘 Python Learning Journey
 Explore my step-by-step Python learning process:
-- [Python Basics](https://github.com/shubhankar/python-learning-journey)
+- [Python Basics](https://github.com/ingaleshubhankar/python-learning-portfolio.git)
 
