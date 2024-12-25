@@ -1,5 +1,5 @@
 # Shubhankar's Portfolio
-Welcome to my portfolio! Here, you can explore my journey in learning Python and other various projects that reflect my skills and development.
+Welcome to my portfolio! Here, you can explore my journey in learnings & various projects that reflect my skills and development.
 
 
 ## 📘 Python Learning Journey
