@@ -2,12 +2,15 @@
 Hi, I’m Shubhankar Ingale, a software developer from Pune with a knack for learning new things and writing about them. You can explore my learning journey here, where I share free handbooks and learning paths for different programming languages and technologies to help students and developers on their own paths
 
 
+
 ## 📚 [CPP](https://github.com/ingaleshubhankar/CPP-HANDBOOK.git)
-This CPP-HANDBOOK is your one-stop resource for mastering C++! You can explore your learning journey of C++ here.
+This CPP-HANDBOOK is your one-stop resource for mastering C++! You can start your learning journey of C++ here.
+
 
 
 ## 📕 [Python](https://github.com/ingaleshubhankar/python-learning-portfolio.git)
 Explore my step-by-step Python learning process. 
+
 
 
 ### About Me
