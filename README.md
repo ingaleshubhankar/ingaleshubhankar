@@ -7,9 +7,9 @@ Hi, I’m Shubhankar Ingale, a software developer from Pune with a knack for lea
 Explore advance topics in CPP:
 - [CPP Topics](https://github.com/ingaleshubhankar/cpp-portfolio.git)
 
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
-## 📒 Python
+
+## ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
 Explore my step-by-step Python learning process:
 - [Python Basics](https://github.com/ingaleshubhankar/python-learning-portfolio.git)
 
