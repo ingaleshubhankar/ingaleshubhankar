@@ -1,5 +1,5 @@
-# Shubhankar's Portfolio
-Welcome to my portfolio! Here, you can explore my journey in learnings & various projects that reflect my skills and development.
+# Shubhankar's Portfolio 
+Hi, I’m Shubhankar Ingale, a software developer from Pune with a knack for learning new things and writing about them. You can explore my learning journey here, where I share free handbooks and learning paths for different programming languages and technologies to help students and developers on their own paths
 
 
 
@@ -7,6 +7,7 @@ Welcome to my portfolio! Here, you can explore my journey in learnings & various
 Explore advance topics in CPP:
 - [CPP Topics](https://github.com/ingaleshubhankar/cpp-portfolio.git)
 
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
 ## 📒 Python
 Explore my step-by-step Python learning process:
