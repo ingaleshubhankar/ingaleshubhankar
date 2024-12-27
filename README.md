@@ -9,9 +9,12 @@ Explore advance topics in CPP:
 
 
 
-## ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
+## Python (https://github.com/ingaleshubhankar/python-learning-portfolio.git)
 Explore my step-by-step Python learning process:
 - [Python Basics](https://github.com/ingaleshubhankar/python-learning-portfolio.git)
+
+
+
 
 
 ## 📕 C
