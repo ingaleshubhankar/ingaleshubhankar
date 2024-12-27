@@ -9,7 +9,7 @@ Explore advance topics in CPP:
 
 
 
-## [Python] (https://github.com/ingaleshubhankar/python-learning-portfolio.git)
+## [Python](https://github.com/ingaleshubhankar/python-learning-portfolio.git)
 Explore my step-by-step Python learning process:
 - [Python Basics](https://github.com/ingaleshubhankar/python-learning-portfolio.git)
 
