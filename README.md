@@ -1,5 +1,6 @@
-# Shubhankar's Portfolio 
-Hi, **I’m Shubhankar Ingale**, a software developer from Pune with a knack for learning new things and writing about them. You can explore my learning journey here, where I share free handbooks and learning paths for different programming languages and technologies to help students and developers on their own paths
+# Hello, I'm Shubhankar! 👨‍💻  
+## Software Developer | Learner | Writer
+Hi there! I'm a software developer from Pune with a passion for learning new technologies and sharing knowledge. On my GitHub, you'll find free handbooks and learning paths for various programming languages and technologies. My goal is to help students and developers fast-track their learning and grow in their coding journey.
 <br>
 <br>
 ## 📚 [CPP](https://github.com/ingaleshubhankar/CPP-HANDBOOK.git)
