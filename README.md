@@ -4,7 +4,8 @@ Hi, I’m Shubhankar Ingale, a software developer from Pune with a knack for lea
 
 
 ## 📚 [CPP](https://github.com/ingaleshubhankar/CPP-HANDBOOK.git)
-This CPP-HANDBOOK is your one-stop resource for mastering C++! You can start your learning journey of C++ here.
+This CPP-HANDBOOK is your one-stop resource for mastering C++!
+You can start your learning journey of C++ here.
 
 
 
