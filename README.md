@@ -2,7 +2,6 @@
 ## Software Developer | Learner | Writer
 Hi there! I'm a software developer from Pune with a passion for learning new technologies and sharing knowledge. On my GitHub, you'll find free handbooks, guides and learning paths for various programming languages and technologies. My goal is to help students and developers fast-track their learning and grow in their coding journey.
 <br>
-<br>
 ## 📚 [CPP](https://github.com/ingaleshubhankar/CPP-HANDBOOK.git)
 This CPP-HANDBOOK is your one-stop resource for mastering C++! <br>
 You can start your learning journey of C++ here.
