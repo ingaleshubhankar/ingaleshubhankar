@@ -10,7 +10,7 @@ You can start your learning journey of C++ here.
 ## 📕 [Python](https://github.com/ingaleshubhankar/python-learning-portfolio.git)
 Explore my step-by-step Python learning process. 
 <br>
-## 🧵 [POSIX C](https://github.com/ingaleshubhankar/python-learning-portfolio.git)
+## 🧵 [POSIX C](https://github.com/ingaleshubhankar/POSIX-C.git)
 A practical guide to learning POSIX C with emphasis on threading and core APIs.<br>
 Start exploring POSIX multithreading concepts here.
 <br>
