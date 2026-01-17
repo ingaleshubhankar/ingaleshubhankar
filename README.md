@@ -11,6 +11,11 @@ You can start your learning journey of C++ here.
 Explore my step-by-step Python learning process. 
 <br>
 <br>
+## 🧵 [POSIX C](https://github.com/ingaleshubhankar/python-learning-portfolio.git)
+A practical guide to learning POSIX C with emphasis on threading and core APIs.
+Start exploring POSIX multithreading concepts here.
+<br>
+<br>
 ### About Me
 I am a passionate software developer with over 8 years of experience in programming. My expertise spans across **C**, **C++**, **Python**, and **databases**. Throughout my career, I've developed a strong foundation in problem-solving and efficient coding practices.
 <br>
