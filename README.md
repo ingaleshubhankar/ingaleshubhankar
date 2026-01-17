@@ -7,7 +7,7 @@ This **CPP-HANDBOOK** is your one-stop resource for mastering C++! <br>
 You can start your learning journey of C++ here.
 <br>
 ## 📕 [Python](https://github.com/ingaleshubhankar/python-learning-portfolio.git)
-Explore my step-by-step Python learning process. 
+Explore my step-by-step **Python learning process**. 
 <br>
 ## 🧵 [POSIX C Thread](https://github.com/ingaleshubhankar/POSIX-C.git)
 This **POSIX C Guide** is a focused resource for understanding POSIX APIs and multithreading concepts.<br>
